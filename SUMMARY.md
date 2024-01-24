@@ -5,7 +5,7 @@
 ## Overview
 
 * [💡 Array's](overview/arrays/README.md)
-  * [😁 Kadane](overview/arrays/kadane.md)
+  * [😁 Kadane's](overview/arrays/kadanes.md)
   * [😁 Two Pointers](overview/arrays/two-pointers.md)
 * [💡 DP](overview/dp/README.md)
   * [😁 demo](overview/dp/demo.md)
