@@ -9,3 +9,7 @@
 {% content-ref url="kadanes.md" %}
 [kadanes.md](kadanes.md)
 {% endcontent-ref %}
+
+{% content-ref url="sliding-window.md" %}
+[sliding-window.md](sliding-window.md)
+{% endcontent-ref %}

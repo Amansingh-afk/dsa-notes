@@ -4,14 +4,34 @@ description: Implementation of Data Structure's in JS.
 
 # 💡 Data Structure
 
-### Articles in this section
-
-{% content-ref url="../arrays/two-pointers.md" %}
-[two-pointers.md](../arrays/two-pointers.md)
+{% content-ref url="linked-list.md" %}
+[linked-list.md](linked-list.md)
 {% endcontent-ref %}
 
-## Video overview
+{% content-ref url="doubly-linked-list.md" %}
+[doubly-linked-list.md](doubly-linked-list.md)
+{% endcontent-ref %}
 
-Got 2 minutes? Check out a video overview of our product:
+{% content-ref url="queue.md" %}
+[queue.md](queue.md)
+{% endcontent-ref %}
 
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+{% content-ref url="priority-queue.md" %}
+[priority-queue.md](priority-queue.md)
+{% endcontent-ref %}
+
+{% content-ref url="circular-priority-queue.md" %}
+[circular-priority-queue.md](circular-priority-queue.md)
+{% endcontent-ref %}
+
+{% content-ref url="stack.md" %}
+[stack.md](stack.md)
+{% endcontent-ref %}
+
+{% content-ref url="lru-cache.md" %}
+[lru-cache.md](lru-cache.md)
+{% endcontent-ref %}
+
+{% content-ref url="hash-table.md" %}
+[hash-table.md](hash-table.md)
+{% endcontent-ref %}
