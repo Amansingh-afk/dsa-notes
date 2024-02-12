@@ -39,3 +39,7 @@ let array = [-2, 1, -3, 4, -1, 2, 1, -5, 4];
 console.log(kadanesAlgorithm(array)); // Output: 6
 ```
 {% endcode %}
+
+```
+// Some code
+```

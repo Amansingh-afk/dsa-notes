@@ -5,6 +5,7 @@
 ## Overview
 
 * [💡 Array's](overview/arrays/README.md)
+  * [🔥 Array methods.](overview/arrays/array-methods..md)
   * [😁 Kadane's](overview/arrays/kadanes.md)
   * [😁 Sliding Window](overview/arrays/sliding-window.md)
   * [😁 Two Pointers](overview/arrays/two-pointers.md)
